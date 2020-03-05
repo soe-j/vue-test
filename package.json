@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:soe-j/vue-test.git",
   "author": "soe-j <soeda@val.co.jp>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@vue/cli": "^4.2.3"
+  }
 }
